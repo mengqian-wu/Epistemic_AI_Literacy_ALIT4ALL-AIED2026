@@ -1,0 +1,8 @@
+gold_col,pred_col,n,accuracy,tp,tn,fp,fn
+proc_prompt_0,proc_prompt,498,0.8975903614457831,9,438,7,44
+proc_justification_0,proc_justification,498,0.8955823293172691,27,419,36,16
+aim_relevance_0,aim_relevance,498,0.8714859437751004,425,9,0,64
+proc_verification_0,proc_verification,498,0.8453815261044176,44,377,60,17
+proc_explanation_0,proc_explanation,498,0.8433734939759037,142,278,39,39
+proc_outsourcing_0,proc_outsourcing,498,0.8092369477911646,128,275,40,55
+understanding_aim_0,aim_understanding,498,0.8092369477911646,37,366,55,40
